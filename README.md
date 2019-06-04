@@ -5,7 +5,7 @@
 
 ## 创建型设计模式
 
-- [建造者模式](../../tree/master/Builder9/Builder.md)
+- [建造者模式](../../tree/master/src/Builder9/Builder.md)
 
 ## 结构型设计模式
 
